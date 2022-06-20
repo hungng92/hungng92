@@ -1,8 +1,9 @@
-- Hi, I’m Hung Nguyen 👋
-- I’m interested in Data Analytics and Data Science
-- I’m currently learning Quantitative Finance and Quantitative Economics at Kiel University
+- Hi, I’m __Hung Nguyen 👋__
+- I’m interested in __Data Analytics, Data  Science__: Python pandas, NumPy, Matplotlib, R, MySQL, PosgresSQL, Tableau, MS Excel with VLOOKUP, Pivot, VBA and have prodounded knowledge in __Risk & Finance__: Mathematical Finance, Computational Finance, Risk Mangement, Statistics of Financial Markets, Econometrics of Financial Markets
+- I’m currently learning __M.Sc. Quantitative Finance__ and __M.Sc. Quantitative Economics__ at Kiel University
 - Certificate of Google Data Analytics & Data Analyst Professional Certificate by DataCamp
-- How to reach me: https://www.linkedin.com/in/hungng92/ | nguyengiahung2992@gmail.com
+- I am on the way of Machine Learning with Python
+- How to reach me: __https://www.linkedin.com/in/hungng92/ | nguyengiahung2992@gmail.com__
 
 <!---
 hungng92/hungng92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
